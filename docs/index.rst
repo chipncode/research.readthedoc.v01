@@ -1,7 +1,7 @@
-Welcome to Django Kong's documentation!
+Welcome to the hell documentation!
 =======================================
 
-A simple example
+A simple example for big star
 -----------------
 
 You can see a `basic version <http://golem.ericholscher.com/kong/>`_ running for my personal site. It is super barebones, but it should give you an idea of what exactly is possible.
@@ -24,10 +24,7 @@ Contents
 
    install
    management_commands
-   settings
-   overview
-   meta
-   roadmap
+
 
 What's with the name?
 ----------------------
